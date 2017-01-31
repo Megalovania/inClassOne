@@ -1,0 +1,49 @@
+body{
+	
+	
+}
+
+main{
+	min-height: 450px;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 1px solid red;
+	
+}
+
+header{
+	
+	
+}
+
+footer{
+	border: 1px solid red;
+	
+}
+
+nav{
+	border: 1px solid red;
+	
+}
+
+nav ul{
+	list-style: none;
+	padding: 10px;
+	<!--padding-top: 10px;-->
+}
+
+nav ul li{
+	display: inline-block;
+	width: 32%;
+	test-align: center;
+}
+
+nav ul li a{
+	text-decoration: none;
+	
+}
+
+.image-holder{
+	height: 450px;
+	background: url("http://static.comicvine.com/uploads/square_medium/10/104794/5022575-jasper-johns-large-white-numbers-1958-museum-ludwig-cologne.jpg") no-repeat center center;
+}
